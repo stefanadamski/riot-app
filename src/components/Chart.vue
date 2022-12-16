@@ -1,7 +1,7 @@
 <template>
   <div class="dashboard-element">
     <div class="chart">
-      <div class="component-header">Current Balance</div>
+      <div class="component-header">Summary</div>
       <div class="more-info">
         <div class="more-info-icon"></div>
       </div>
