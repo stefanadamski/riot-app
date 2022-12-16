@@ -40,12 +40,11 @@
 </template>
 
 <script>
-
 import TableTab from "@/components/Tabs/TableTab";
 import ChartsTab from "@/components/Tabs/ChartsTab";
 import ReportingTab from "@/components/Tabs/ReportingTab";
 import AnalysisTab from "@/components/Tabs/AnalysisTab";
-import SummaryTab from "@/components/Tabs/SummaryTab";
+import SummaryTab from "@/components/Tabs/SummaryTabAPI";
 
 export default {
   name: "Dashboard-Tabs",
